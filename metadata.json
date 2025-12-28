@@ -1,0 +1,5 @@
+{
+  "name": "InventoryMaster",
+  "description": "Role-based Inventory Management System with Firebase Authentication and Firestore.",
+  "requestFramePermissions": []
+}
